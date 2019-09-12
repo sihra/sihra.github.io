@@ -1,0 +1,54 @@
+body{
+    background: url(Images/sparkle.gif) no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#message{
+    height: 200px;
+    width: 400px;
+    font-size: 160%;
+    position: fixed;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+#mask{
+    position:absolute;
+    bottom:8px;
+    left:16px;
+}
+#grace{
+    position:absolute;
+    bottom:8px;
+    right:16px;
+}
+#jason{
+    position: relative;
+  left: 32%;
+  top: 23px;
+  margin-bottom: 23px;
+}
+#teddy{
+    left:3%;
+        top:8px;
+    position:relative;
+}
+#tux{
+    top:300px;
+    right:13%;
+    margin-top: 100px;
+    position:relative;
+}
+#pat{
+    left:18%;
+    position:relative;
+}
+#minion{
+    left:11%;
+    bottom:500px;
+    position: relative;
+}
